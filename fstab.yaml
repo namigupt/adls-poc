@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1Mm5sUyXnWG-v6mm-KY_ng_etTTjnAe2I
+  /:
+    url: https://content.da.live/namigupt/exl-poc1/
+    type: markup
