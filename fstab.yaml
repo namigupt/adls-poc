@@ -1,4 +1,2 @@
 mountpoints:
-  /:
-    url: https://content.da.live/namigupt/da-block-collection/
-    type: markup
+  /: https://drive.google.com/drive/folders/1Mm5sUyXnWG-v6mm-KY_ng_etTTjnAe2I
